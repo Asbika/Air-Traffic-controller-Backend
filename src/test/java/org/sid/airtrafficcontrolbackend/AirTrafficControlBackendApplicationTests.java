@@ -1,4 +1,4 @@
-package com.example.airtrafficcontrolbackend;
+package org.sid.airtrafficcontrolbackend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
